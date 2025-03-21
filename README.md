@@ -5,19 +5,19 @@ Despite the rise of large language models (LLMs), South Asian languages still st
 
 We aim to record and provide a structured overview of existing resources to promote future research work for improving NLP technologies in South Asia.  
 
-## 1. Models
+## 1 Models
 
-### Multilingual LLMs
-### Task-Specific Fine-Tuned Models
-### Domain-Specific Models
+### 1.1 Multilingual LLMs
+### 1.2 Task-Specific Fine-Tuned Models
+### 1.3 Domain-Specific Models
 
-## 2. Model Adaptation Methods & Learning Strategies
+## 2 Model Adaptation Methods & Learning Strategies
 
-### Code-mixed Adaptations
-### Supervised Multilingual Transfer Learning
-### Distillation and parameter-efficient finetuning (PEFT)
+### 2.1 Code-mixed Adaptations
+### 2.2 Supervised Multilingual Transfer Learning
+### 2.3 Distillation and parameter-efficient finetuning (PEFT)
 
-## 3. Bias, Fairness & Evaluation
+## 3 Bias, Fairness & Evaluation
 
-### Sociocultural Bias in NLP
-### Evaluation Metrics
+### 3.1 Sociocultural Bias in NLP
+### 3.2 Evaluation Metrics
