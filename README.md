@@ -8,6 +8,7 @@ We aim to record and provide a structured overview of existing resources to prom
 ## 1.  Models
 
 ### 1.1  Multilingual LLMs
+- IndicBART: A Pre-trained Model for Indic Natural Language Generation [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
 ### 1.2  Task-Specific Fine-Tuned Models
 ### 1.3  Domain-Specific Models
 
