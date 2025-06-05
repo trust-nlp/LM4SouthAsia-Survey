@@ -8,9 +8,37 @@ We aim to record and provide a structured overview of existing resources to prom
 ## 1.  Models
 
 ### 1.1  Multilingual LLMs
-- IndicBART: A Pre-trained Model for Indic Natural Language Generation [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
+- IndicBART: A Pre-trained Model for Indic Natural Language Generation 
+- AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese
+- IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages.
+- Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages
+- IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages
+- IndicIRSuite: Multilingual dataset and neural information models for Indian languages.
+- RomanSetu: Efficiently un- locking multilingual capabilities of large language models via Romanization
+- Exploiting language relatedness for low web-resource language model adaptation: An indic languages study
+- HindiLLM: Large Language Model for Hindi
+- Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi
+- Development of Pre-Trained Transformer-based Models for the Nepali Language
+- TigerLLM - A Family of Bangla Large Language Models
+- L3Cube-MahaCorpus and MahaBERT: Marathi Monolingual Corpus, Marathi BERT Language Models, and Resources
+  
 ### 1.2  Task-Specific Fine-Tuned Models
+- Application of Quantum Recurrent Neural Network in Low-Resource Language Text Classification
+- Dual Channel LM for Hope Speech Detection in low-resourced Kannada
+- IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages
+- IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages
+- TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques
+- Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification
+- Predicting multi-label emojis, emotions, and sentiments in code-mixed texts using an emojifying sentiments framework
+- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore
+- Multimodal Machine Translation for Low-Resource Indic Languages: A Chain-of-Thought Approach Using Large Language Models
+- Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages
+- IndIE: A Multilingual Open Information Extraction Tool For Indic Languages
+- Unified NMT models for the Indian subcontinent, transcending script-barriers
+- 
 ### 1.3  Domain-Specific Models
+- MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries
+- AI-Tutor: Interactive Learning of Ancient Knowledge from Low-Resource Languages
 
 ## 2.  Model Adaptation Methods & Learning Strategies
 
