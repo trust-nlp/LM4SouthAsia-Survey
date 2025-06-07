@@ -95,4 +95,20 @@ Corpora, Benchmark and Models for Indic Languages [[paper]](https://aclanthology
 ## 3.  Bias, Fairness & Evaluation
 
 ### 3.1  Sociocultural Bias in NLP
+- Language Model Tokenizers Introduce Unfairness Between Languages [[paper]](https://arxiv.org/pdf/2305.15425)
+- Re-contextualizing Fairness in NLP: The Case of India [[paper]](https://aclanthology.org/2022.aacl-main.55.pdf)
+- On Evaluating and Mitigating Gender Biases in Multilingual Settings [[paper]](https://aclanthology.org/2023.findings-acl.21.pdf)
+- Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features [[paper]](https://aclanthology.org/2023.findings-emnlp.845.pdf)
+- DweshVaani: An LLM for Detecting Religious Hate Speech in Code-Mixed Hindi-English [[paper]](https://aclanthology.org/2025.chipsal-1.5.pdf)
+- Natural Language Understanding of Devanagari Script Languages: Language Identification, Hate Speech and its Target Detection [[paper]](https://aclanthology.org/2025.chipsal-1.7.pdf)
+- TRO(F)LL or ROFL ? : Exploring Troll Detection in Tamil Memes [[paper]](https://aclanthology.org/2024.icon-1.45.pdf)
+- Investigating the Effect of Backtranslation for Indic Languages [[paper]](https://aclanthology.org/2025.indonlp-1.18.pdf)
+- Breaking Language Barriers or Reinforcing Bias? A Study of Gender and Racial Disparities in Multilingual Contrastive Vision–Language Models [[paper]](https://arxiv.org/pdf/2505.14160)
+
 ### 3.2  Evaluation Metrics
+- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[paper]](https://arxiv.org/pdf/2402.18045)
+- BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP [[paper]](https://aclanthology.org/2024.lrec-main.201.pdf)
+- IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages [[paper]](https://aclanthology.org/2020.findings-emnlp.445.pdf)
+- IndicXNLI: Evaluating Multilingual Inference for Indian Languages [[paper]](https://aclanthology.org/2022.emnlp-main.755.pdf)
+- INDICGENBENCH: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages [[paper]](https://aclanthology.org/2024.acl-long.595.pdf)
+- Information Parity: Measuring and Predicting the Multilingual Capabilities of Language Models [[paper]](https://aclanthology.org/2024.findings-emnlp.468.pdf)
