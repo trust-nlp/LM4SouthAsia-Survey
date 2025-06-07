@@ -12,12 +12,12 @@ This repository is organized into three main sections:
 - **Bias and Evaluation in South Asian NLP**
 
 
-## 1.  Models
+## 1.  LLMs and Model Resources
 
 ### 1.1  Multilingual LLMs
-- IndicBART: A Pre-trained Model for Indic Natural Language Generation 
-- AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese
-- IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages.
+- *(IndicBART)* - IndicBART: A Pre-trained Model for Indic Natural Language Generation [[paper]](https://aclanthology.org/2022.findings-acl.145.pdf)
+- *(AxomiyaBERTa)* - AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese [[paper]](https://aclanthology.org/2023.findings-acl.739.pdf)
+- *(IndicBERT)* - IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages. [[paper]](https://aclanthology.org/2020.findings-emnlp.445.pdf)
 - Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages
 - IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages
 - IndicIRSuite: Multilingual dataset and neural information models for Indian languages.
