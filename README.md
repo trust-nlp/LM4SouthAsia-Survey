@@ -55,14 +55,29 @@ Corpora, Benchmark and Models for Indic Languages [[paper]](https://aclanthology
 - Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi [[paper]](https://arxiv.org/pdf/2309.10272v2)
 - MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries [[paper]](https://arxiv.org/pdf/2401.01596)
 - Predicting multi-label emojis, emotions, and sentiments in code-mixed texts using an emojifying sentiments framework [[paper]](https://www.nature.com/articles/s41598-024-58944-5)
+- IndicNLG Benchmark: Multilingual Datasets for Diverse NLG Tasks in Indic Languages [[paper]](https://aclanthology.org/2022.emnlp-main.360.pdf)
+- Does Transliteration Help Multilingual Language Modeling? [[paper]](https://aclanthology.org/2023.findings-eacl.50.pdf)
+- Context-aware Transliteration of Romanized South Asian Languages [[paper]](https://aclanthology.org/2024.cl-2.2.pdf)
+- Multimodal Machine Translation for Low-Resource Indic Languages: A Chain-of-Thought Approach Using Large Language Models [[paper]](https://aclanthology.org/2024.wmt-1.79.pdf)
+- Neural Methods for Aligning Large-Scale Parallel Corpora from the Web for South and East Asian Languages [[paper]](https://aclanthology.org/2024.wmt-1.132.pdf)
+- Generalists vs. Specialists: Evaluating Large Language Models for Urdu [[paper]](https://aclanthology.org/2024.findings-emnlp.426.pdf)
 
 
 ### 2.2  Supervised Multilingual Transfer Learning
 - Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages [[paper]](https://aclanthology.org/2022.tacl-1.9.pdf)
 - IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages [[paper]](https://arxiv.org/pdf/2305.16307)
 - AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese [[paper]](https://aclanthology.org/2023.findings-acl.739.pdf)
-- Overlap-Based Vocabulary Generation Improves Cross-Lingual Transfer Among Related Languages
-
+- Overlap-based Vocabulary Generation Improves Cross-lingual Transfer Among Related Languages [[paper]](https://arxiv.org/pdf/2203.01976)
+- IndicBART: A Pre-trained Model for Indic Natural Language Generation [[paper]](https://aclanthology.org/2022.findings-acl.145.pdf)
+- RomanSetu: Efficiently un-locking multilingual capabilities of large language models via Romanization [[paper]](https://aclanthology.org/2024.acl-long.833.pdf)
+- Do Large Language Models Speak All Languages Equally? A Comparative Study in Low-Resource Settings [[paper]](https://arxiv.org/pdf/2408.02237)
+- Enhancing Low Resource NER Using Assisting Language And Transfer Learning [[paper]](https://arxiv.org/pdf/2306.06477)
+- Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning [[paper]](https://www.cse.iitb.ac.in/~pb/papers/tallip18-ner.pdf)
+- Improving Pretraining Techniques for Code-Switched NLP [[paper]](https://aclanthology.org/2023.acl-long.66.pdf)
+- Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features [[paper]](https://aclanthology.org/2023.findings-emnlp.845.pdf)
+- A Tulu Resource for Machine Translation [[paper]](https://aclanthology.org/2024.lrec-main.155.pdf)
+- LLMs Are Few-Shot In-Context Low-Resource Language Learners [[paper]](https://aclanthology.org/2024.naacl-long.24v2.pdf)
+- Bidirectional English-Nepali Machine Translation(MT) System for Legal Domain [[paper]](https://aclanthology.org/2024.sigul-1.7.pdf)
 
 ### 2.3  Distillation and parameter-efficient finetuning (PEFT)
 - Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi [[paper]](https://arxiv.org/pdf/2309.10272v2)
