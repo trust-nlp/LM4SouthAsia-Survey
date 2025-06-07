@@ -18,6 +18,8 @@ This repository is organized into three main sections:
 - ***(IndicBART)*** - IndicBART: A Pre-trained Model for Indic Natural Language Generation [[paper]](https://aclanthology.org/2022.findings-acl.145.pdf)
 - ***(AxomiyaBERTa)*** - AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese [[paper]](https://aclanthology.org/2023.findings-acl.739.pdf)
 - ***(IndicBERT)*** - IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages. [[paper]](https://aclanthology.org/2020.findings-emnlp.445.pdf)
+- ***(IndicBERTv2)*** - Towards Leaving No Indic Language Behind: Building Monolingual
+Corpora, Benchmark and Models for Indic Languages [[paper]](https://aclanthology.org/2023.acl-long.693.pdf)
 - ***(IndicTrans)*** - Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages [[paper]](https://aclanthology.org/2022.tacl-1.9.pdf)
 - ***(IndicTrans2)*** - IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages [[paper]](https://arxiv.org/pdf/2305.16307)
 - ***(Indic-ColBERT)*** - IndicIRSuite: Multilingual dataset and neural information models for Indian languages. [[paper]](https://aclanthology.org/2024.acl-short.46.pdf)
@@ -50,13 +52,30 @@ This repository is organized into three main sections:
 ## 2.  Model Adaptation Methods & Learning Strategies
 
 ### 2.1  Code-mixed Adaptations
-- RomanSetu: Efficiently un- locking multilingual capabilities of large language models via Romanization
+- Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi [[paper]](https://arxiv.org/pdf/2309.10272v2)
+- MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries [[paper]](https://arxiv.org/pdf/2401.01596)
+- Predicting multi-label emojis, emotions, and sentiments in code-mixed texts using an emojifying sentiments framework [[paper]](https://www.nature.com/articles/s41598-024-58944-5)
 
 
 ### 2.2  Supervised Multilingual Transfer Learning
+- Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages [[paper]](https://aclanthology.org/2022.tacl-1.9.pdf)
+- IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages [[paper]](https://arxiv.org/pdf/2305.16307)
+- AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese [[paper]](https://aclanthology.org/2023.findings-acl.739.pdf)
+- Overlap-Based Vocabulary Generation Improves Cross-Lingual Transfer Among Related Languages
 
 
 ### 2.3  Distillation and parameter-efficient finetuning (PEFT)
+- Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi [[paper]](https://arxiv.org/pdf/2309.10272v2)
+- Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification [[paper]](https://aclanthology.org/2022.sigul-1.14.pdf)
+- Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters [[paper]](https://aclanthology.org/2024.kallm-1.7v2.pdf)
+- Cross-Lingual Named Entity Recognition for Low-Resource Languages: A Hindi-Nepali Case Study Using Multilingual BERT Models [[paper]](https://aclanthology.org/2024.mrl-1.12.pdf)
+- BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP [[paper]](https://aclanthology.org/2024.lrec-main.201.pdf)
+- Quality or Quantity? On Data Scale and Diversity in Adapting Large Language Models for Low-Resource Translation [[paper]](https://aclanthology.org/2024.wmt-1.128.pdf)
+- Large Language Models as a Normalizer for Transliteration and Dialectal Translation [[paper]](https://aclanthology.org/2025.vardial-1.5.pdf)
+- Abstractive Summarization of Low resourced Nepali language using Multilingual Transformers [[paper]](https://aclanthology.org/2025.chipsal-1.12.pdf)
+- Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs [[paper]](https://aclanthology.org/2024.findings-emnlp.920.pdf)
+- IndiText Boost: Text Augmentation for Low Resource India Languages [[paper]](https://arxiv.org/pdf/2401.13085)
+- Table Question Answering for Low-resourced Indic Languages [[paper]](https://aclanthology.org/2024.emnlp-main.5.pdf)
 
 ## 3.  Bias, Fairness & Evaluation
 
