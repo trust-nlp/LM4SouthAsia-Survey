@@ -112,3 +112,17 @@ Corpora, Benchmark and Models for Indic Languages [[paper]](https://aclanthology
 - IndicXNLI: Evaluating Multilingual Inference for Indian Languages [[paper]](https://aclanthology.org/2022.emnlp-main.755.pdf)
 - INDICGENBENCH: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages [[paper]](https://aclanthology.org/2024.acl-long.595.pdf)
 - Information Parity: Measuring and Predicting the Multilingual Capabilities of Language Models [[paper]](https://aclanthology.org/2024.findings-emnlp.468.pdf)
+
+## 📖 Citation
+
+If you find this repository useful, please kindly consider citing the following:
+
+```bibtex
+@inproceedings{poria2025bhaasha,
+  title     = {Bhaasha, Bhāṣā, Zabān: A Survey for Low-Resourced Languages in South Asia – Current Stage and Challenges},
+  author    = {Sampoorna Poria and Xiaolei Huang},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year      = {2025},
+  address   = {Suzhou, China},
+  publisher = {Association for Computational Linguistics}
+}
